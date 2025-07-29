@@ -1,6 +1,6 @@
 # Luminik
 
-Welcome to the official GitHub profile of **Luminik** — your AI-powered assistant for event marketing.
+Welcome to the official GitHub profile of **Luminik** — your AI assistant for event marketing.
 
 We help B2B marketing teams turn raw attendee lists into qualified pipeline by:
 - Gathering, enriching and filtering leads based on your ICP
