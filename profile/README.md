@@ -4,38 +4,42 @@
   </a>
 </div>
 
-<h2 align="center">The event pipeline platform.</h2>
+<h2 align="center">The event pipeline platform for B2B teams</h2>
 
 <p align="center">
-  Source, enrich, sequence, capture, attribute. Connect event preparation, booth conversations, sales follow-up, and CRM attribution.
+  Find the right people before a trade show, capture conversations at the booth, and connect the follow-up to pipeline in Salesforce or HubSpot.
 </p>
 
-<p align="center">
-  <a href="https://www.luminik.io">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.luminik.io/product/">Product</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.luminik.io/pricing/">Pricing</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.luminik.io/case-studies/">Case studies</a>
-</p>
+### From event preparation to sales follow-up
 
-### What we build
+Luminik brings the work around a trade show or conference into one workflow for marketing, sales, and RevOps.
 
-Luminik helps B2B teams prepare for third-party events, capture contacts and conversation notes on mobile, and follow through in Salesforce or HubSpot.
+1. **Source** contacts from event platforms, exhibitor and speaker directories, or your own attendee lists.
+2. **Enrich** and prioritize those contacts using your existing data providers and targeting criteria.
+3. **Sequence** event-specific outreach through the tools your sales team already uses.
+4. **Capture** badges, business cards, and voice notes in the mobile app, keeping the conversation context with the contact.
+5. **Attribute** sourced and influenced pipeline to the event in Salesforce or HubSpot.
 
-Use your existing enrichment providers, keep event context with each contact, and review AI-drafted follow-ups before taking action. Explore the [product](https://www.luminik.io/product/) and [published case studies](https://www.luminik.io/case-studies/) for details.
+[Explore the product](https://www.luminik.io/product/) and [read customer case studies](https://www.luminik.io/case-studies/).
+
+### Use the tools and accounts you already have
+
+- **Your enrichment providers.** Connect accounts such as Apollo or ZoomInfo. Keep your existing data contracts and credits.
+- **Your CRM.** Event contacts, conversation notes, and attribution write back to Salesforce or HubSpot.
+- **Your AI keys, if you prefer.** Bring your own provider keys for AI usage on your account.
+- **Your team reviews the outreach.** AI drafts messages and suggests next steps for review before sending.
+- **No per-seat charges.** Plans include unlimited marketing, RevOps, and booth-rep seats, with allowances for events and enriched matches. [See pricing](https://www.luminik.io/pricing/).
 
 ### Free tools and open source
 
-- [Event-outbound plugin for Claude and Codex](https://github.com/luminik-io/event-outbound-skill): draft event-specific cold-email and LinkedIn sequences. Installation instructions are in the repository.
-- [Event ROI Calculator](https://www.luminik.io/tools/event-roi-calculator/): model an event's costs and potential pipeline outcomes.
+- [Event-outbound plugin for Claude and Codex](https://github.com/luminik-io/event-outbound-skill): generate event-specific cold-email and LinkedIn sequences from an attendee list.
+- [Event ROI Calculator](https://www.luminik.io/tools/event-roi-calculator/): estimate event costs, opportunities, and potential pipeline.
+- [Event directory](https://www.luminik.io/conferences/): find trade shows and conferences for your event planning.
 
 ### Get in touch
 
-- Web: [luminik.io](https://www.luminik.io) · [contact](https://www.luminik.io/contact/)
-- Email: [founders@luminik.io](mailto:founders@luminik.io)
-- LinkedIn: [linkedin.com/company/luminik](https://www.linkedin.com/company/luminik/)
-- Founder: [Prasad Subrahmanya](https://www.linkedin.com/in/prasadus/) · [prasad@luminik.io](mailto:prasad@luminik.io)
+- [Contact Luminik](https://www.luminik.io/contact/) or email [founders@luminik.io](mailto:founders@luminik.io).
+- Follow [Luminik on LinkedIn](https://www.linkedin.com/company/luminik/).
+- Reach founder [Prasad Subrahmanya](https://www.linkedin.com/in/prasadus/) at [prasad@luminik.io](mailto:prasad@luminik.io).
 
-DataRavel Inc. · Newark, DE · operated from Oslo, Norway.
+Luminik is a product of DataRavel Inc., Newark, Delaware.
